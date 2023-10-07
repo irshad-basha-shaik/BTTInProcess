@@ -1,15 +1,15 @@
 /* devanagari */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pasEfOqeef2kg.woff2) format('woff2');
+  src: url(Assets/woff/hemi_head_bd_it.otf) format('otf');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
@@ -18,7 +18,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
@@ -27,7 +27,7 @@
 }
 /* devanagari */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -36,7 +36,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -45,7 +45,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -54,7 +54,7 @@
 }
 /* devanagari */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -63,7 +63,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -72,7 +72,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -81,7 +81,7 @@
 }
 /* devanagari */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
@@ -90,7 +90,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
@@ -99,7 +99,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
@@ -108,7 +108,7 @@
 }
 /* devanagari */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -117,7 +117,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -126,7 +126,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Rajdhani';
+  font-family:'HemiHead';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
