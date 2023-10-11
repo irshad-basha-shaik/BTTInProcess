@@ -1,6 +1,6 @@
 /* devanagari */
 @font-face {
-  font-family:'HemiHead';
+  font-family:'Hemi Head';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
