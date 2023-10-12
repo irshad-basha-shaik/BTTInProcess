@@ -1837,6 +1837,30 @@
 															<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
 																		<span class="elementor-icon-list-text">Industrial Area 12, P.O.Box. 7676, Sharjah, United Arab Emirates.</span>
 																	</li>
+														<li class="elementor-icon-list-item elementor-inline-item">
+															<span class="elementor-icon-list-text"><p id="visit-count">Visitors to this page: Loading...</p></span>
+														</li>
+
+
+														<script>
+        // JavaScript code to count and display visitors
+        const currentUrl = window.location.href;
+        let visitCount = localStorage.getItem(currentUrl);
+
+        if (visitCount === null) {
+            visitCount = 1;
+            localStorage.setItem(currentUrl, visitCount.toString());
+        } else {
+            visitCount = parseInt(visitCount, 10) + 1;
+            localStorage.setItem(currentUrl, visitCount.toString());
+        }
+
+        const visitCountElement = document.getElementById('visit-count');
+
+        if (visitCountElement) {
+            visitCountElement.textContent = `Visitors to this page: ${visitCount}`;
+        }
+    </script>
 														</ul>
 												</div>
 												</div>
